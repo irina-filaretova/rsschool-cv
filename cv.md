@@ -1,7 +1,7 @@
 # Filaretova Irina
 
 ## Contacts for communication
-* email: filaretova.irina@mail.ru
+* email: [filaretova.irina@mail.ru](mailto:filaretova.irina@mail.ru)
 * telegram: [@filaretovairina](https://t.me/filaretovairina)
 
 ## Brief information about yourself
