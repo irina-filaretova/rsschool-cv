@@ -1,25 +1,25 @@
-# Филаретова Ирина
+# Filaretova Irina
 
-## Контакты для связи
+## Contacts for communication
 * email: filaretova.irina@mail.ru
 * telegram: [@filaretovairina](https://t.me/filaretovairina)
 
-## Краткая информация о себе
-### Цель
-Стать квалифицированным frontend разработчиком, способным создавать интерактивные и удобные веб-интерфейсы, применяя современные технологии и фреймворки. 
-### Сильные стороны
-* Быстрое обучение: Мотивация и стремление к постоянному развитию в области веб-разработки.
-* Коммуникабельность: Желание работать в команде и общаться с коллегами для обмена опытом и решения задач.
-* Креативность: Открытость к новым идеям и желание создавать красивые и функциональные интерфейсы.
+## Brief information about yourself
+### Purpose
+Become a skilled frontend developer capable of creating interactive and user-friendly web interfaces using modern technologies and frameworks. 
+### Strengths
+* Fast learner: Motivated and eager to continuously develop in the field of web development.
+* Communication skills: Willingness to work in a team and communicate with colleagues to share experiences and solve problems.
+* Creativity: Openness to new ideas and desire to create beautiful and functional interfaces.
 
-## Навыки
-* Основы HTML и CSS
-* Работала в редакторе VSCode
+## Skills
+* HTML and CSS basics
+* Working in the VSCode editor
 
-## Пример кода
+## Code example
 ```
 function Card() {
-    useCheckAuth(); // проверка авторизован ли пользователь
+    useCheckAuth();
     const { id } = useParams();
     const { onAddToBasket, quantity, sum, currentItem } = useLoadBasket(id);
 
@@ -51,12 +51,12 @@ function Card() {
 }
 
 ```
-## Опыт работы
-* [Учебный проект сайт визитка](https://gitlab.com/IrinaFilaretova/business_card)
-* [Учебный проект интернет магазина](https://gitlab.com/IrinaFilaretova/module-react)
+## Work experience
+* [Training project website business card](https://gitlab.com/IrinaFilaretova/business_card)
+* [Online store training project](https://gitlab.com/IrinaFilaretova/module-react)
 
-## Образование
-Прошла профессиональную переподготовку в АНО ВО "Университет Иннополис" по дополнительной профессиональной программе "Основы Frontend-разработки"
+## Education
+Underwent professional retraining in ANOE VO "Innopolis University" on an additional professional program "Frontend development basics"
 
-## Английский язык
-Уровень английского языка - базовый.
+## English
+The level of English is basic.
