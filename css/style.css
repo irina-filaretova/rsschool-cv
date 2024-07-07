@@ -1,3 +1,25 @@
+* {
+    font-size: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
 body {
     background: #ccc;
+}
+
+.developer__foto {
+    width: 360px;
+    right: 426px;
+}
+
+.info__initials {
+    color: #000000;
+}
+
+.h2 {
+    color: #414141;
 }
