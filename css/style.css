@@ -2,24 +2,58 @@
     font-size: border-box;
 }
 
+a {
+    color: rgb(68, 67, 67);
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
 .container {
     display: flex;
     justify-content: center;
 }
 
-body {
-    background: #ccc;
+.info {
+    background: url(/images/background.jpg);
+    padding: 10px 10px;
 }
 
-.developer__foto {
-    width: 360px;
-    right: 426px;
+.header {
+    display: flex;
+    gap: 25px;
 }
 
-.info__initials {
-    color: #000000;
+.header__foto {
+    width: 150px;
 }
 
-.h2 {
-    color: #414141;
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer__logo {
+    width: 80px;
+}
+
+.footer__year {
+    font-size: 14px;
+    margin: 10px 0 0 0;
+}
+
+.footer__rsschool {
+    display: flex;
+    align-items: center;
+    gap: 25px;
 }
